@@ -1,3 +1,4 @@
+//12.9
 //See absolute number, though it is positive (5) or negative (-5)
 var number = -5
 var absoluteNumber = Math.abs(number)  //abs is the short form of Absolute

@@ -1,3 +1,4 @@
+//12.6
 var praise = "I know YOU are Good and CUTE"
 console.log(praise.toLowerCase()) //to display all word lowerCase i know you are good and cute
 

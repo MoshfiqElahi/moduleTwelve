@@ -1,3 +1,4 @@
+//12.4
 //Number Type Var
 var seenAfter= 21;
 console.log(typeof seenAfter)
